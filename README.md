@@ -1,7 +1,6 @@
 # ColumnSort
 This is a Java Program that implements Leighton's column sorting algorithm column sort, to sort a list of numbers.
 
-It is as follows:
 Step 1 : Sort Each column individually
 - Use any sorting technique, I used selection sort.
 
